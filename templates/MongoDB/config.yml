@@ -1,0 +1,8 @@
+name: MongoDB
+description: |
+  # MongoDB Cluster with Mongos service added
+version: 1.0
+category: Databases
+maintainer: Will McCracken
+license: AGPL v3.0
+projectURL: http://www.mongodb.com
